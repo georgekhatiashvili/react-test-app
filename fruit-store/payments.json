@@ -1,0 +1,292 @@
+[
+  {
+    "paymentId": 0,
+    "total": "21.00",
+    "breakdown": {
+      "apples": 3,
+      "bananas": 1,
+      "oranges": 1,
+      "grapes": 1
+    },
+    "date": "10/03/2024, 17:52:29"
+  },
+  {
+    "paymentId": 1,
+    "total": "20.00",
+    "breakdown": {
+      "apples": 4
+    },
+    "date": "10/03/2024, 18:40:12"
+  },
+  {
+    "paymentId": 2,
+    "total": "0.00",
+    "breakdown": {},
+    "date": "10/03/2024, 18:56:10"
+  },
+  {
+    "paymentId": 3,
+    "total": "10.00",
+    "breakdown": {
+      "apples": 2
+    },
+    "date": "10/03/2024, 18:59:04"
+  },
+  {
+    "paymentId": 4,
+    "total": "13.00",
+    "breakdown": {
+      "apples": 2,
+      "bananas": 1,
+      "oranges": 1
+    },
+    "date": "10/03/2024, 19:06:16"
+  },
+  {
+    "paymentId": 5,
+    "total": "14.00",
+    "breakdown": {
+      "oranges": 7
+    },
+    "date": "10/03/2024, 19:07:50"
+  },
+  {
+    "paymentId": 6,
+    "total": "12.00",
+    "breakdown": {
+      "apples": 1,
+      "bananas": 2,
+      "oranges": 1,
+      "grapes": 1
+    },
+    "date": "10/03/2024, 19:09:19"
+  },
+  {
+    "paymentId": 7,
+    "total": "10.00",
+    "breakdown": {
+      "apple": 2
+    },
+    "date": "10/03/2024, 19:37:43"
+  },
+  {
+    "paymentId": 8,
+    "total": "6.00",
+    "breakdown": {
+      "grapes": 1,
+      "bananas": 1,
+      "oranges": 1
+    },
+    "date": "10/03/2024, 19:40:22"
+  },
+  {
+    "paymentId": 9,
+    "total": "15.00",
+    "breakdown": {
+      "apples": 3
+    },
+    "date": "10/03/2024, 19:47:47"
+  },
+  {
+    "paymentId": 10,
+    "total": "6.00",
+    "breakdown": {
+      "oranges": 3
+    },
+    "date": "10/03/2024, 19:57:52"
+  },
+  {
+    "paymentId": 11,
+    "total": "3.00",
+    "breakdown": {
+      "grapes": 1
+    },
+    "date": "10/03/2024, 21:04:19"
+  },
+  {
+    "paymentId": 12,
+    "total": "6.00",
+    "breakdown": {
+      "grapes": 2
+    },
+    "date": "10/03/2024, 21:14:43"
+  },
+  {
+    "paymentId": 13,
+    "total": "1.00",
+    "breakdown": {
+      "bananas": 1
+    },
+    "date": "10/03/2024, 21:16:18"
+  },
+  {
+    "paymentId": 14,
+    "total": "2.00",
+    "breakdown": {
+      "oranges": 1
+    },
+    "date": "10/03/2024, 21:23:34"
+  },
+  {
+    "paymentId": 15,
+    "total": "0.00",
+    "breakdown": {},
+    "date": "10/03/2024, 21:43:49"
+  },
+  {
+    "paymentId": 16,
+    "total": "0.00",
+    "breakdown": {},
+    "date": "10/03/2024, 21:43:51"
+  },
+  {
+    "paymentId": 17,
+    "total": "3.00",
+    "breakdown": {
+      "grapes": 1
+    },
+    "date": "10/03/2024, 21:43:59"
+  },
+  {
+    "paymentId": 18,
+    "total": "2.00",
+    "breakdown": {
+      "oranges": 1
+    },
+    "date": "10/03/2024, 22:10:50"
+  },
+  {
+    "paymentId": 19,
+    "total": "3.00",
+    "breakdown": {
+      "grapes": 1
+    },
+    "date": "10/03/2024, 22:11:04"
+  },
+  {
+    "paymentId": 20,
+    "total": "6.00",
+    "breakdown": {
+      "grapes": 2
+    },
+    "date": "10/03/2024, 22:11:44"
+  },
+  {
+    "paymentId": 21,
+    "total": "11.00",
+    "breakdown": {
+      "grapes": 2,
+      "apples": 1
+    },
+    "date": "10/03/2024, 22:12:10"
+  },
+  {
+    "paymentId": 22,
+    "total": "9.00",
+    "breakdown": {
+      "bananas": 6,
+      "grapes": 1
+    },
+    "date": "10/03/2024, 22:28:08"
+  },
+  {
+    "paymentId": 23,
+    "total": "1.00",
+    "breakdown": {
+      "bananas": 1
+    },
+    "date": "10/03/2024, 22:28:13"
+  },
+  {
+    "paymentId": 24,
+    "total": "3.00",
+    "breakdown": {
+      "grapes": 1
+    },
+    "date": "10/03/2024, 23:40:06"
+  },
+  {
+    "paymentId": 25,
+    "total": "6.00",
+    "breakdown": {
+      "grapes": 2
+    },
+    "date": "10/03/2024, 23:40:34"
+  },
+  {
+    "paymentId": 26,
+    "total": "1.00",
+    "breakdown": {
+      "bananas": 1
+    },
+    "date": "10/03/2024, 23:40:45"
+  },
+  {
+    "paymentId": 27,
+    "total": "1.00",
+    "breakdown": {
+      "bananas": 1
+    },
+    "date": "10/03/2024, 23:40:57"
+  },
+  {
+    "paymentId": 28,
+    "total": "1.00",
+    "breakdown": {
+      "bananas": 1
+    },
+    "date": "10/03/2024, 23:41:12"
+  },
+  {
+    "paymentId": 29,
+    "total": "1.00",
+    "breakdown": {
+      "bananas": 1
+    },
+    "date": "10/03/2024, 23:41:44"
+  },
+  {
+    "paymentId": 30,
+    "total": "0.00",
+    "breakdown": {},
+    "date": "10/03/2024, 23:43:43"
+  },
+  {
+    "paymentId": 31,
+    "total": "0.00",
+    "breakdown": {},
+    "date": "10/03/2024, 23:43:50"
+  },
+  {
+    "paymentId": 32,
+    "total": "2.00",
+    "breakdown": {
+      "oranges": 1
+    },
+    "date": "10/03/2024, 23:46:37"
+  },
+  {
+    "paymentId": 33,
+    "total": "9.00",
+    "breakdown": {
+      "grapes": 3
+    },
+    "date": "10/03/2024, 23:46:51"
+  },
+  {
+    "paymentId": 34,
+    "total": "10.00",
+    "breakdown": {
+      "apples": 2
+    },
+    "date": "10/04/2024, 13:41:38"
+  },
+  {
+    "paymentId": 35,
+    "total": "30.00",
+    "breakdown": {
+      "apples": 6
+    },
+    "date": "10/04/2024, 13:54:35"
+  }
+]

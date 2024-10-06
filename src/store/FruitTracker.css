@@ -1,0 +1,28 @@
+/* FruitCounter.css */
+
+.fruit-counter {
+    padding: 1rem; /* Add padding inside the card */
+    margin-bottom: 1rem; /* Space between fruit cards */
+    border-radius: 0.5rem; /* Rounded corners */
+  }
+  
+  .fruit-name {
+    display: flex; /* Flex layout for image and text */
+    align-items: center; /* Center alignment */
+  }
+  
+  .quantity-input {
+    width: 60px; /* Fixed width for the input */
+  }
+  
+  .fruit-price, .fruit-stock {
+    margin: 0.5rem 0; /* Add margin for spacing */
+  }
+  .fruit-tracker {
+    background-color: #f9f9f9;
+}
+
+.total-price {
+    font-weight: bold;
+}
+

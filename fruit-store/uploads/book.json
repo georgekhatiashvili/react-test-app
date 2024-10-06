@@ -1,0 +1,86 @@
+[
+  {
+    "fileName": "1728060514539-giorgi khatiashvili.docx",
+    "name": "dasd",
+    "author": "asdas",
+    "categories": [
+      "Non-Fiction"
+    ],
+    "file": "http://localhost:5000/uploads/1728060514539-giorgi khatiashvili.docx"
+  },
+  {
+    "fileName": "1728061319357-english.docx",
+    "name": "sdas",
+    "author": "dsfsdf",
+    "categories": [
+      "Non-Fiction"
+    ],
+    "file": "http://localhost:5000/uploads/1728061319357-english.docx",
+    "isGeorgian": true
+  },
+  {
+    "fileName": "1728070526249-giorgi khatiashvili.docx",
+    "name": "test",
+    "author": "testauthor",
+    "categories": [
+      "History"
+    ],
+    "file": "http://localhost:5000/uploads/1728070526249-giorgi khatiashvili.docx",
+    "isGeorgian": true
+  },
+  {
+    "fileName": "1728070881157-6-point_plan_signed_by_medvedev_august_2008.pdf",
+    "name": "khatiashvili",
+    "author": "khatiashvili",
+    "categories": [
+      "Non-Fiction"
+    ],
+    "file": "http://localhost:5000/uploads/1728070881157-6-point_plan_signed_by_medvedev_august_2008.pdf",
+    "isGeorgian": true
+  },
+  {
+    "fileName": "1728072736381-pouczenie-swiadka.pdf",
+    "name": "khatiashvili",
+    "author": "khatiashvili",
+    "categories": [
+      "Science"
+    ],
+    "file": "http://localhost:5000/uploads/1728072736381-pouczenie-swiadka.pdf",
+    "isGeorgian": false,
+    "desc": " POUCZENIE O UPRAWNIENIACH I OBOWIĄZKACH ŚWIADKA W POSTĘPOWANIU KARNYM W postępowaniu karnym świadek posiada wymienione poniżej uprawnienia i obowiązki: 1. Każda osoba wezwana w charakterze świadka ma obowiązek stawić"
+  },
+  {
+    "fileName": "1728073145839-2008-eu-georgia-heavy-burden-country-geo.pdf",
+    "name": "Georgia",
+    "author": "grigorian",
+    "categories": [
+      "Fiction",
+      "History"
+    ],
+    "file": "http://localhost:5000/uploads/1728073145839-2008-eu-georgia-heavy-burden-country-geo.pdf",
+    "isGeorgian": false,
+    "desc": " iZulebiT gadaadgilebulni saqarTveloSi cxovrebiseuli istoriebi afxazeTidan da samxreT oseTidan mZime tvirTi meri qumsiaSvili, rusuli gamocemis redaqtori TinaTin CxeiZe, qarTuli gamocemis redaqtori panos londoni, olivia beneti panos londoni, vendi deivisi"
+  },
+  {
+    "fileName": "1728111030806-KaÅ¼dy-Gruzin-mÃ³wi-po-rosyjsku-czÄÅÄ-III.docx",
+    "name": "khajh",
+    "author": "jhasjd",
+    "categories": [
+      "Non-Fiction"
+    ],
+    "file": "http://localhost:5000/uploads/1728111030806-KaÅ¼dy-Gruzin-mÃ³wi-po-rosyjsku-czÄÅÄ-III.docx",
+    "isGeorgian": true,
+    "desc": "No description available"
+  },
+  {
+    "fileName": "1728111068100-iwona-kaliszewska-zycie-codzie_954.pdf",
+    "name": "kbaskjddh",
+    "author": "khaslkhdklas",
+    "categories": [
+      "History"
+    ],
+    "file": "http://localhost:5000/uploads/1728111068100-iwona-kaliszewska-zycie-codzie_954.pdf",
+    "isGeorgian": true,
+    "desc": " RAPORT OPRACOWANY W RAMACH PROJEKTU ROZBUDOWA BIBLIOTEKI WYDZIAŁU INFORMACJI O KRAJACH POCHODZENIA WSPÓŁFINANSOWANEGO PRZEZ EUROPEJSKI FUNDUSZ NA RZECZ UCHODŹCÓW GRUDZIEŃ 2010 (ODDANY DO DRUKU W KWIETNIU 2011) ŻYCIE CODZIENNE"
+  }
+]
